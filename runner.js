@@ -1,3 +1,3 @@
-import adder from './adder';
+import adder from './adder.js';
 
 console.log(adder(2));
